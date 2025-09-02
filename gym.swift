@@ -1,0 +1,1 @@
+// Go to: https://github.com/Codecademy/learn-swift/blob/main/8-structures/Structured%20Exercise%20Regimen/Exercise.swift
